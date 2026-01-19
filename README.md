@@ -42,7 +42,7 @@ I enjoy building simple, practical tools that combine **engineering data** with 
 
 ## 🔗 Connect with Me
 
-![LinkedIn](YOUR_LINKEDIN_URL)
+![LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sagar-wagh/))
 
 ---
 
