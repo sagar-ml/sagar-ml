@@ -34,7 +34,6 @@ I enjoy building simple, practical tools that combine **engineering data** with 
 ---
 
 ## 📊 GitHub Stats  
-> (Optional — looks great on your profile. Remove if you prefer simple.)
 
 ![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-ml&show_icons=true&theme=tokyonight)
 
@@ -42,7 +41,7 @@ I enjoy building simple, practical tools that combine **engineering data** with 
 
 ## 🔗 Connect with Me
 
-![LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sagar-wagh/))
+![LinkedIn](https://www.linkedin.com/in/sagar-wagh/)
 
 ---
 
