@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Sagar Wagh  ![LinkedIn](https://www.linkedin.com/in/sagar-wagh/)
+# 👋 Hi, I'm Sagar Wagh 
 ### AI/ML Application Engineer | Python | Data Analysis | Engineering ML Tools  
 
 I'm a Mechanical Engineer transitioning into **AI/ML**, currently working as an **AI/ML Application Engineer**.  
