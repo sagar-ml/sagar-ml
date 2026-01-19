@@ -39,12 +39,6 @@ I enjoy building simple, practical tools that combine **engineering data** with 
 
 ---
 
-## 🔗 Connect with Me
-
-![LinkedIn](https://www.linkedin.com/in/sagar-wagh/)
-
----
-
 ## 🚀 Goals for 2026
 - Build 5–8 meaningful ML/Engineering data projects  
 - Get strong with Pandas & Data Analysis  
